@@ -3,7 +3,7 @@
 
 /**
  *
- * main - use main function
+ * main - The main function always
  *
  * Return: use 1 
  */
