@@ -4,7 +4,7 @@
  * main - use the function
  *
  * Return: 0 my fave
- */
+*/
 
 int main(void)
 {
